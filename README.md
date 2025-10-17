@@ -11,3 +11,4 @@ Notes:
 - Footer includes: © 2025 Paradise Nursery • Developed by Muhammad Yuwanandra Risdyaksa
 - Redux stores cart items in src/redux/cartSlice.js
 - Currently hosted here : https://paradisenurseryby-yuwan.netlify.app/
+- I suggest using vscode to run, it offer the most consistent results 
